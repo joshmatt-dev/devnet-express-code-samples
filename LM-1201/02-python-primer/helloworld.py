@@ -1,5 +1,5 @@
-print ("Hello World!")
-num = 1
-if num < 1:
-   print ("I'm less than 1!")
+print ("Hello Devnet Express Sydney!")
+day = 1
+if day < 1:
+   print ("I'm learning Git!")
    print ("Goodbye Cruel World!")
